@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramUnity\\inotech-crane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\programunity\\inotech-crane\\assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CraneController.cs",
+              "DocumentMoniker": "D:\\ProgramUnity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CraneController.cs",
+              "ToolTip": "D:\\ProgramUnity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CraneController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:07:41.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

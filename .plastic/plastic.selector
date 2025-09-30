@@ -1,0 +1,4 @@
+repository "inotech-crane 2025-09-30_13-09-15/inotech-crane@10170846423064@cloud"
+  path "/"
+    br "/main"
+    co "/main"
