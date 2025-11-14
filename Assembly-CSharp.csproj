@@ -61,6 +61,7 @@
     <Analyzer Include="D:\Unity\6000.2.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CraneCableController.cs" />
     <Compile Include="Assets\Scripts\CraneController.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1254,6 +1255,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{8D63B180-D2DC-7458-43B1-A678F34A533B}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

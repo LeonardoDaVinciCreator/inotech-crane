@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\inotech-crane\\",
+  "WorkspaceRootPath": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\inotech-crane\\Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\cranecablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\cranecablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\projects\\inotech-crane\\assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FlexibleCraneRope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,34 +25,40 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlexibleCraneRope.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlexibleCraneRope.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlexibleCraneRope.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:16:16.682Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CutTool.cs",
-              "DocumentMoniker": "D:\\Projects\\inotech-crane\\Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs",
-              "ToolTip": "D:\\Projects\\inotech-crane\\Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.probuilder@9b6693f09f97\\Editor\\EditorCore\\CutTool.cs",
-              "ViewState": "AQIAAJACAAAAAAAAAADwv6ICAABIAAAA",
+              "Title": "CraneCableController.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneCableController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CraneCableController.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneCableController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CraneCableController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T15:04:37.859Z",
+              "WhenOpened": "2025-11-13T15:54:16.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CraneController.cs",
-              "DocumentMoniker": "D:\\Projects\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CraneController.cs",
-              "ToolTip": "D:\\Projects\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CraneController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:07:41.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T10:07:41.906Z"
             }
           ]
         }
