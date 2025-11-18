@@ -61,8 +61,11 @@
     <Analyzer Include="D:\Unity\6000.2.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CraneCableController.cs" />
-    <Compile Include="Assets\Scripts\CraneController.cs" />
+    <Compile Include="Assets\Scripts\Pooling\BasePooledObject.cs" />
+    <Compile Include="Assets\Scripts\Pooling\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Player\FPSCharacterController.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Gun.cs" />
+    <Compile Include="Assets\Scripts\Weapons\BaseWeapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

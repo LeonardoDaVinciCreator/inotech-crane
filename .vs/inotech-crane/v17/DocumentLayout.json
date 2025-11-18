@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\cranecablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\cranecablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\pooling\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pooling\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FlexibleCraneRope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\player\\fpscharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fpscharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cranecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\weapons\\baseweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\baseweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|d:\\c#android\\\u0442\u0440\u0435\u0442\u0438\u0439\u043A\u0443\u0440\u0441\\unity\\inotech-crane\\assets\\scripts\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A4F4B8-D7D1-8437-D4F9-C1859DF48D14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlexibleCraneRope.cs",
-              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FlexibleCraneRope.cs",
-              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\FlexibleCraneRope.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FlexibleCraneRope.cs",
+              "DocumentIndex": 2,
+              "Title": "BaseWeapon.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Weapons\\BaseWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\BaseWeapon.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Weapons\\BaseWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\BaseWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T04:16:16.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CraneCableController.cs",
-              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneCableController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CraneCableController.cs",
-              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneCableController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CraneCableController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwCwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T15:54:16.648Z",
+              "WhenOpened": "2025-11-18T13:43:15.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CraneController.cs",
-              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CraneController.cs",
-              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\CraneController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CraneController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Weapons\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Gun.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Weapons\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Gun.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:07:41.906Z"
+              "WhenOpened": "2025-11-18T11:44:46.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPSCharacterController.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Player\\FPSCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FPSCharacterController.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Player\\FPSCharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FPSCharacterController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:27:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Pooling\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pooling\\Bullet.cs",
+              "ToolTip": "D:\\C#Android\\\u0422\u0440\u0435\u0442\u0438\u0439\u041A\u0443\u0440\u0441\\Unity\\inotech-crane\\Assets\\Scripts\\Pooling\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pooling\\Bullet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:27:47.976Z",
+              "EditorCaption": ""
             }
           ]
         }
